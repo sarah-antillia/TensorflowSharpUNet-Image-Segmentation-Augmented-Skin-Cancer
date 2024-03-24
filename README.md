@@ -279,7 +279,8 @@ Test loss    :0.2156
 Test accuracy:0.9429000020027161
 </pre>
 
-As shown above, the loss for test dataset is slightly lower (better) than that of <br>
+As shown above, the loss for this mini-test dataset is slightly lower (better) than that of
+<a href="https://github.com/sarah-antillia/TensorflowEfficientUNet-Image-Segmentation-Augmented-Skin-Cancer">TensorflowEfficientUNet-Image-Segmentation-Augmented-Skin-Cancer</a> <br>
 <img src="https://github.com/sarah-antillia/TensorflowEfficientUNet-Image-Segmentation-Augmented-Skin-Cancer/blob/main/projects/TensorflowEfficientUNet/Skin-Cancer/asset/evaluate_console_output_at_epoch_45.png" width="720" height="auto">
 
 <pre>
@@ -394,31 +395,46 @@ Muhammad Nasir Khan and Amer Sohail Kashif<br>
 https://www.mdpi.com/1424-8220/20/6/1601
 </pre>
 
-<b>5. Image-Segmentation-Skin-Lesion</b><br>
+<b>5. Sharp U-Net: Depthwise Convolutional Network for Biomedical Image Segmentation</b><br>
+<pre>
+https://github.com/hasibzunair/sharp-unets/blob/master/demo.ipynb
+</pre>
+<pre>
+@article{zunair2021sharp,
+  title={Sharp U-Net: Depthwise Convolutional Network for Biomedical Image Segmentation},
+  author={Zunair, Hasib and Hamza, A Ben},
+  journal={Computers in Biology and Medicine},
+  pages={104699},
+  year={2021},
+  publisher={Elsevier}
+}
+</pre>
+
+<b>6. Image-Segmentation-Skin-Lesion</b><br>
 Toshiyuki Arai @antillia.com
 <pre>
 https://github.com/sarah-antillia/Image-Segmentation-Skin-Lesion
 </pre>
 
-<b>6. TensorflowUNet-Image-Segmentation-Augmented-Skin-Cancer</b><br>
+<b>7. TensorflowUNet-Image-Segmentation-Augmented-Skin-Cancer</b><br>
 Toshiyuki Arai @antillia.com
 <pre>
 https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-Augmented-Skin-Cancer
 </pre>
 
-<b>7. TensorflowSwinUNet-Image-Segmentation-Augmented-Skin-Cancer</b><br>
+<b>8. TensorflowSwinUNet-Image-Segmentation-Augmented-Skin-Cancer</b><br>
 Toshiyuki Arai @antillia.com
 <pre>
 https://github.com/sarah-antillia/TensorflowSwinUNet-Image-Segmentation-Augmented-Skin-Cancer
 </pre>
 
-<b>8. TensorflowEfficientUNet-Image-Segmentation-Augmented-Skin-Cancer</b><br>
+<b>9. TensorflowEfficientUNet-Image-Segmentation-Augmented-Skin-Cancer</b><br>
 Toshiyuki Arai @antillia.com
 <pre>
 https://github.com/sarah-antillia/TensorflowEfficientUNet-Image-Segmentation-Augmented-Skin-Cancer
 </pre>
 
-<b>9. ImageMask-Dataset-Skin-Cancer</b><br>
+<b>10. ImageMask-Dataset-Skin-Cancer</b><br>
 Toshiyuki Arai @antillia.com
 <pre>
 https://github.com/sarah-antillia/ImageMask-Dataset-Skin-Cancer
